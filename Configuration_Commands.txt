@@ -81,6 +81,8 @@ Command List for Configuring Docker Swarm and OpenFaaS:
 		git clone https://github.com/faasflow/faas-flow-tower.git
 
 		cd faas-flow-tower
+		
+		*Make necessary changes as described in the Obstacles section of the final report*
 
 		faas deploy -f stack.yml --gateway 127.0.0.1:8080
 
